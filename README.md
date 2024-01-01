@@ -1,4 +1,4 @@
-# Academic Integrity Detection System Readme
+# Academic Integrity Detection System 
 
 ## Overview
 
