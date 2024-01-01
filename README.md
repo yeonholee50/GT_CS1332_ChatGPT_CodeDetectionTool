@@ -1,1 +1,1 @@
-Uses Bayes Net Concept learned in AI/ML class to raise flags when cheating
+Uses Bayes Net Concept learned in AI/ML class to raise flags when cheating. Please note that these flags do not indicate that a code has been copied from online source. More often than not, there are many false positives. However, those with codes flagged should be interviewed to give a holistic process. 
