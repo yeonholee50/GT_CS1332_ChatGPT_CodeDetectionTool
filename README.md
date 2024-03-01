@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project leverages concepts from Bayes Net, as learned in an AI/ML class, to create an Academic Integrity Detection System. The system aims to raise flags when potential cheating is detected in academic assignments or assessments. It's important to note that the flags raised by the system do not necessarily indicate direct code copying from online sources. False positives are expected, and the system is designed to be a tool for further investigation rather than a conclusive judgment. This implementation is only one of many systems written by the TA team used to check if code has possibily been plagarised. This particular one was written by me.
+This project leverages concepts from Bayes Net, as learned in an AI/ML class, to create an Academic Integrity Detection System. The system aims to raise flags when potential cheating is detected in academic assignments or assessments. It's important to note that the flags raised by the system do not necessarily indicate direct code copying from online sources. False positives are expected, and the system is designed to be a tool for further investigation rather than a conclusive judgment. This implementation is only one of many systems written by the TA team used to check if code has possibily been plagarised. This particular one was written by Yeon Lee.
 
 ## How It Works
 
